@@ -1,10 +1,3 @@
-//
-//  FetchChallengeApp.swift
-//  FetchChallenge
-//
-//  Created by Tony Ajeti on 10/18/24.
-//
-
 import SwiftUI
 
 @main

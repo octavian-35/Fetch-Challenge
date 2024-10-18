@@ -1,10 +1,3 @@
-//
-//  ContentView.swift
-//  FetchChallenge
-//
-//  Created by Tony Ajeti on 10/18/24.
-//
-
 import SwiftUI
 
 struct ContentView: View {
@@ -19,6 +12,8 @@ struct ContentView: View {
     }
 }
 
+#if DEBUG
 #Preview {
     ContentView()
 }
+#endif
